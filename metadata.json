@@ -1,0 +1,7 @@
+{
+  "name": "bản text 5",
+  "description": "Luyện dịch Việt-Anh thông minh với sự hỗ trợ của Gemini AI. Nhận phản hồi chi tiết, sửa lỗi ngữ pháp và chấm điểm theo thời gian thực.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
