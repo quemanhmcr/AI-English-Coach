@@ -5,10 +5,7 @@
 ## Demo
 
 ### Video Demo
-<video width="600" controls>
-  <source src="https://github.com/quemanhmcr/AI-English-Coach/raw/main/public/video_20251213_112221_edit.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Demo Video](https://github.com/quemanhmcr/AI-English-Coach/raw/main/public/video_20251213_112221_edit.mp4)
 
 ### Screenshots
 ![Interface Screenshot](https://github.com/quemanhmcr/AI-English-Coach/raw/main/public/sua_loi.png)
