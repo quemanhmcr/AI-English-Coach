@@ -2,6 +2,17 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+## Demo
+
+### Video Demo
+<video width="600" controls>
+  <source src="public/video_20251213_112221_edit.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Screenshots
+![Interface Screenshot](public/sua_loi.png)
+
 # AI English Coach
 
 An AI-powered English learning application designed to provide interactive and personalized coaching for language learners. Built with modern web technologies and integrated with Google Gemini AI for intelligent assistance.
