@@ -6,12 +6,12 @@
 
 ### Video Demo
 <video width="600" controls>
-  <source src="public/video_20251213_112221_edit.mp4" type="video/mp4">
+  <source src="https://github.com/quemanhmcr/AI-English-Coach/raw/main/public/video_20251213_112221_edit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### Screenshots
-![Interface Screenshot](public/sua_loi.png)
+![Interface Screenshot](https://github.com/quemanhmcr/AI-English-Coach/raw/main/public/sua_loi.png)
 
 # AI English Coach
 
